@@ -56,5 +56,5 @@ If you are using PlaceHoldr as a bundle then you can easily add placeholdr image
 Creating PlaceHoldrs externally is also pretty straight forward. All you have to do is use a normal HTML img tag and link directly to the PlaceHoldr URL, specifying the width, height and image text (latter both optional).
 
 <code>
-	<img src="http://url.to/placeholdr/300x300/Optional+Text" alt="" />
+	&ltimg src="http://url.to/placeholdr/300x300/Optional+Text" alt="" />
 </code>
