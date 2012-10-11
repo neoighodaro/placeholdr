@@ -1,6 +1,6 @@
 **What is Placeholdr?**
 
-PlaceHoldr is a simple to use [http://laravel.com](Laravel) bundle that helps web designers create place holder images on the fly. There are certain times you need to use an image on a web site but you want to not be bothered with any graphic design at the moment, but you do need an image to hang on that empty space, well, that's where PlaceHoldr comes in handy.
+PlaceHoldr is a simple to use [Laravel](http://laravel.com) bundle that helps web designers create place holder images on the fly. There are certain times you need to use an image on a web site but you want to not be bothered with any graphic design at the moment, but you do need an image to hang on that empty space, well, that's where PlaceHoldr comes in handy.
 
 PlaceHoldr simply creates an image of any width and height combination on the fly. You can then use this generated image for whatever placeholding purposes you need it for.
 
