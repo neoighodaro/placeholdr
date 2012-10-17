@@ -15,10 +15,13 @@ class GD extends Driver
 	 */
 	public function make($width, $height = 0, $text = '')
 	{
+		// Placeholdr width
 		$width = (int) $width;
 
+		// Placeholdr Height
 		$height = (int) $height;
 
+		// Placeholdr text
 		$text = trim($text);
 
 		// The width is invalid, but lets fallback to width and height of 1px
